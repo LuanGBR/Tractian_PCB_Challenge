@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "atsamr34j18bt-tinyloramodule-symbol-lib-tlm-v1-rescue")(type "KiCad")(uri "/home/luangb/Documents/Personal/Tractian PS/atsamr34j18bt-tinyloramodule-symbol-lib-tlm-v1-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "tyetbcsanf-32.000000-tinyloramodule-symbol-lib-tlm-v1-rescue")(type "KiCad")(uri "/home/luangb/Documents/Personal/Tractian PS/tyetbcsanf-32.000000-tinyloramodule-symbol-lib-tlm-v1-rescue.kicad_sym")(options "")(descr ""))
+)
